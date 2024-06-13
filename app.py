@@ -33,7 +33,7 @@ def main():
         else:
             print("Invalid input. Please try again.")
 
-    print("Goodbye 👋👋")
+    print("Goodbye")
 
 if __name__ == "__main__":
     main()
